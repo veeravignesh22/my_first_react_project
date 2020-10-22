@@ -1,0 +1,22 @@
+.h1 {
+    letter-spacing: 15px;
+    font-family: Courier New, monospace;
+    border-bottom: 1.4px solid #F4D03F;
+    display: flex;
+    justify-content: center;
+    line-height: 90px;
+    letter-spacing: 25px;
+}
+
+ .row { 
+display: flex;
+text-align: center;
+margin-top: 100px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+letter-spacing: 5px;
+}
+
+.png img {
+    width: 120px;
+}
+
